@@ -1,4 +1,4 @@
-# 🌸 Maverick Fragrance
+<img width="1905" height="941" alt="image" src="https://github.com/user-attachments/assets/ff4a4043-f8f8-4086-91e4-d952b652e1a8" /># 🌸 Maverick Fragrance
 
 Maverick Fragrance is a modern fragrance brand and system designed to combine elegance, innovation, and personalization.  
 It emphasizes a clean **UI/UX**, smooth user experience, and a luxurious identity that reflects the sophistication of the fragrance world.
@@ -22,3 +22,11 @@ Maverick Fragrance can be adapted for different platforms:
 - **Design System:** Class Variance Authority + Custom Components  
 
 ---
+
+# File
+
+[Maverick Fragrance (PDF)](./Maverick-Fragrance.pdf)
+
+# POS Preview
+
+![Maverick Fragrance Preview](./mf.png)

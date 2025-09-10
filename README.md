@@ -25,7 +25,7 @@ Maverick Fragrance can be adapted for different platforms:
 
 # File
 
-[Maverick Fragrance (PDF)](./Maverick-Fragrance.pdf)
+[Maverick Fragrance (PDF)](./MaverickFragrance.pdf)
 
 # POS Preview
 
